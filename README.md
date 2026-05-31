@@ -1,4 +1,4 @@
-# fathead-minnow-NA-analysis
+# Fathead Minnow NA Analysis
 
 R script exploring how naphthenic acid concentration and environmental factors affect fathead minnow (Pimephales promelas) fry length using Alberta government monitoring data.
 
